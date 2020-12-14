@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Nasa react assignemnt
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Due to lack of time I am missing the following:
+- [ ] pagination (fetch with 'page' param and styling) - 1 hr
+- [ ] api request caching - 45 min
+- [ ] carousel styling with smooth transition- 45 min
+- [ ] sorting (add sorting types and comparators) - 20 min 
+- [ ] error handling and loading display - 1 hr
+- [ ] responsiveness - 30 min
+- [ ] overall layout and styling (contain elements with scrollbars, grid layouts, consistent spacing) - 1hr
+- [ ] add 'home' button 
+- [ ] guard from rogue values in cards - 10 min
+- [ ] css consts (colors, spacing avoid, magic numbers etc..) - 10 min
+- [ ] accessibility 20 min
+- [ ] tooltips on images 20 min
+- [ ] embed image with iframe? or fetch from url insteead of storing in 'assets'
 
 ## Available Scripts
 
