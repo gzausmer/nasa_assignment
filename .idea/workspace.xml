@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7966335b-48ea-48fa-87d5-70f1869235df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nasa-assignement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutPage/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutPage/about.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ApiClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carousel/carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carousel/carousel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DatePage/datePage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DatePage/datePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WeatherPage/weather.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WeatherPage/weather.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/mars-curiosity-rover-msl-horizon-sky-self-portrait-PIA19808-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lauPg3g9fNwQY36KhQC9Liy4QL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/assets" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/assets" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7966335b-48ea-48fa-87d5-70f1869235df" name="Default Changelist" comment="" />
+      <created>1607847500886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607847500886</updated>
+      <workItem from="1607847502594" duration="3767000" />
+      <workItem from="1607851958740" duration="34804000" />
+    </task>
+    <task id="LOCAL-00001" summary="add project to git repo">
+      <created>1607939196500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607939196500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add project to git repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project to git repo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

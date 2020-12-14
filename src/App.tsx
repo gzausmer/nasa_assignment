@@ -1,24 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { createContext, useMemo } from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import "./App.scss";
+import { About } from "./components/AboutPage/about";
+import { DatePage } from "./components/DatePage/datePage";
+import { WeatherPage } from "./components/WeatherPage/weather";
+import { ApiClient } from "./components/ApiClient";
+
+export const ApiClientContext = createContext(new ApiClient());
 
 function App() {
+  const apiClient = useMemo(() => new ApiClient(), []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ApiClientContext.Provider value={apiClient}>
+        <Router>
+          <Switch>
+            <Route exact path="/">
+              <About />
+            </Route>
+            <Route path="/about">
+              <About />
+            </Route>
+            <Route path="/date">
+              <DatePage />
+            </Route>
+            <Route path="/weather">
+              <WeatherPage />
+            </Route>
+          </Switch>
+        </Router>
+      </ApiClientContext.Provider>
+      <div className={"bg_image"} />
     </div>
   );
 }

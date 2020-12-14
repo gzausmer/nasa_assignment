@@ -1,0 +1,15 @@
+.date_wrapper {
+  padding: 16px;
+}
+
+.date_grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+  }
+}

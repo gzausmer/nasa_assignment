@@ -1,0 +1,23 @@
+.carousel_wrapper {
+  display: flex;
+  height: 30vh;
+  align-items: center;
+  justify-content: center;
+
+  button {
+    height: 32px;
+    border-radius: 4px;
+    background: #ffffd7;
+    border: none;
+    margin: 16px;
+  }
+}
+
+.image_wrapper {
+  width: 10vw;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

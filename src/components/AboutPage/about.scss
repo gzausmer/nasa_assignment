@@ -1,0 +1,47 @@
+.about_wrapper {
+  display: grid;
+  grid-template-rows: auto 45% 45%;
+}
+
+.about_subtitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.info_wrapper {
+  display: flex;
+  height: 100%;
+}
+
+.info_wrapper_image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  p {
+    width: 50%;
+    text-align: justify;
+  }
+  button {
+    height: 32px;
+    border-radius: 4px;
+    background: #ffffd7;
+    margin-right: 16px;
+    border: none;
+  }
+}
